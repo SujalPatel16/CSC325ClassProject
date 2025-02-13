@@ -26,25 +26,6 @@ The aim of this project is to create a comprehensive and visually appealing pers
 - **User Experience**: Prioritize ease of navigation, fast loading times, and intuitive interfaces.
 - **Accessibility**: Make the website accessible to users with disabilities by following web accessibility guidelines.
 
-## Technologies
-- **Frontend**: HTML, CSS, JavaScript, and popular frameworks/libraries such as React or Vue.js.
-- **Backend**: Node.js, Express.js, or other suitable backend technologies if dynamic content or server-side processing is needed.
-- **Database**: MongoDB, MySQL, or other databases if persistent data storage is required.
-- **Deployment**: Utilize platforms such as GitHub Pages, Netlify, or Vercel for hosting the website.
-
-## Timeline
-1. **Planning and Design** (2 weeks)
-   - Define project requirements
-   - Create wireframes and mockups
-2. **Development** (4 weeks)
-   - Implement frontend and backend components
-   - Integrate projects, experiences, and other content
-3. **Testing and Optimization** (2 weeks)
-   - Perform thorough testing on various devices and browsers
-   - Optimize performance and accessibility
-4. **Deployment and Launch** (1 week)
-   - Deploy the website to the chosen hosting platform
-   - Announce the launch on social media and professional networks
 
 ## Conclusion
 This personal website portfolio project aims to create a professional, user-friendly, and visually appealing online presence for an undergraduate computer science student. By showcasing the student's skills, projects, and experiences, the website will effectively attract potential employers and provide valuable networking opportunities.
