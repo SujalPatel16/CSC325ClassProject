@@ -1,0 +1,5 @@
+# markdownlint configutayion files
+
+#disable rules
+
+MD013 : false
